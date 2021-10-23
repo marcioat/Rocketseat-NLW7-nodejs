@@ -1,0 +1,5 @@
+{
+    "thunder-client.loadFromProject": true,
+    "thunder-client.excludeProxyHostList": "./",
+    "thunder-client.workspaceRelativePath": "./"
+}
